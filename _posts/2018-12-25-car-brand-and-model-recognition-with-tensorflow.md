@@ -69,7 +69,7 @@ Input image resolution: 128,160,192, or 224px.
 The relative size of the model as a fraction of the largest MobileNet: 1.0, 0.75, 0.50, or 0.25.
 
 
-![Mobilenet](../images/mobilenet.png?raw=true "Mobilenet")
+![Mobilenet](../../../../images/mobilenet.png?raw=true "Mobilenet")
 
 > mobile net pretrained model compared to other models The latency and power usage of the network scales with the number of Multiply-Accumulates (MACs) which measures the number of fused Multiplication and Addition operations. We used the most suitable one for the resources on the hands.
 
@@ -79,7 +79,7 @@ The relative size of the model as a fraction of the largest MobileNet: 1.0, 0.75
 
 __Cropping images__
 
-  ![cropping](../images/cropping.png?raw=true "Cropping")
+  ![cropping](../../../../images/cropping.png?raw=true "Cropping")
 
 ### Retraining (Transfer Learning)
 
