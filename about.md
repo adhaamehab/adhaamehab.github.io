@@ -105,6 +105,6 @@ Jun 2015 - Aug 2015
 
 [SocPlot](https://github.com/Arqamfc/socplot)	*[Author]* A python visualization package for visualizing football pitch.
 
-[Car Recognition](https://github.com/adhaamehab/car_recognition) *[Author]* Predicting car brand, model, year. Check kaggle submission [*Here*](https://www.kaggle.com/c/fcis-deep-learning-competition)
+[Car Recognition](https://github.com/adhaamehab/car-model-prediction) *[Author]* Predicting car brand, model, year. Check kaggle submission [*Here*](https://www.kaggle.com/c/fcis-deep-learning-competition)
 
 ----
