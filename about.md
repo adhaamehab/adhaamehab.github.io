@@ -14,7 +14,7 @@ I'm a senior year CS student at [FCIS](cis.asu.edu.eg/english/) at *the scientif
 
 
 
-### About
+### Breif intro
 
 I'm interested in building Machine Learning models, Natural language processing and Computer vision.
 
@@ -33,6 +33,8 @@ I always love to solve new problems and build data powerd application.
 July 2018 -  NOW
 
 [ArqamFC](https://arqamfc.com) : ArqamFC is an analytics firm focused on collecting and analysing football data.
+
+I do a bit of every thing. From data infrastructure and APIs to ML and Computer vision 
 
 --
 
@@ -103,6 +105,6 @@ Jun 2015 - Aug 2015
 
 [SocPlot](https://github.com/Arqamfc/socplot)	*[Author]* A python visualization package for visualizing football pitch.
 
-[Car Recognition](https://github.com/adhaamehab/car_recognition) *[Author]* Predicting car brand, model, year. Check kaggle submission [*Here*](https://www.kaggle.com/c/fcis-deep-learning-competition)
+[Car Recognition](https://github.com/adhaamehab/car-model-prediction) *[Author]* Predicting car brand, model, year. Check kaggle submission [*Here*](https://www.kaggle.com/c/fcis-deep-learning-competition)
 
 ----
