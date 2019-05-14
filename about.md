@@ -11,7 +11,9 @@ Data Scientist, Software Engineer, Python, Open-source, NLP, Vision, System desg
 ## Work 
 
 ***Contributer writer***
-[Towardsdatascience.com/@adhamehab]
+
+(Towards Data Science)[https://towardsdatascience.com/@adhamehab]
+
 - Writing about Natural language process, Machine learning and computer vision.
 
  ***Full Stack Data Scientist***
