@@ -2,6 +2,7 @@ If you can't trust somebody, don't hire him!
 
 ![Broken](https://images.unsplash.com/photo-1441804238730-210ce1c2cc00)
 
+&nbsp;
 
 I started working at this company as an Applied data science engineer.
 I was very excited to build that brand new content analysis platform that the CEO described
@@ -22,8 +23,6 @@ He once spent more than 2 hours with one of the teams forcing him to explain how
 indexing works and why choose elastic over mongo. 
 
 
-&nbsp;
-
 He had problems trusting other's decisions. 
 From stack choice to features implementation, to even DevOps. 
 You either have a killer point which cuts all debates and proves your point or we will go with his "way of doing things". 
@@ -31,13 +30,10 @@ Simply, he couldn't trust the people's he hired.
 I remember a huge argument between me and him about why we needed more disk space on the dev servers.
 
 
-&nbsp;
-
 Every successful person tends to like working with better people than himself.
 That's how you learn and grow. Everyone I worked with at this company had an undermining
 problem at the company. Every argument with the CEO ended with him mentioning his X years of
 experience and how 3 or 4 years of experience doesn't make you qualified to take ANY decision.
-
 
 &nbsp;
 
