@@ -16,11 +16,11 @@ From the business side, we had around 8 potential big clients. The culture wasn'
 ### Micromanaging, trust-issues and undermining.
 
 
-The CEO ignored our advice to hiring someone as a product guy. 
+The CEO ignored our advice to hire someone as a product guy. 
 And because the product team isn't just a bunch of guys who choose the next features.
 He started to micromanage the team. He wanted to understand every line of code in our codebase.
-He once spent more than 2 hours with one of the teams forcing him to explain how elastic search 
-indexing works and why choose elastic over mongo. 
+He once spent more than 2 hours with one of the teams forcing him to explain
+how elastic search indexing works and why choose elastic over mongo. 
 
 
 He had problems trusting other's decisions. 
@@ -37,4 +37,4 @@ experience and how 3 or 4 years of experience doesn't make you qualified to take
 
 &nbsp;
 
-4 months ago, the CEO shat down the company. It wass pretty depressing because the company was very close to achieve success. But if you can't believe in the people you hired, Why should anyone believe in your company?
+4 months ago, the CEO shat down the company. It was pretty depressing because the company was very close to achieve success. But if you can't believe in the people you hired, Why should anyone believe in your company?
