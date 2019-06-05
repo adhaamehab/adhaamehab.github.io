@@ -10,6 +10,7 @@ In the first few months, we did so much of what we've promised. We had 5 Deep le
 in production, Fully functional near real-time data pipeline, search engine, and a visualization platform.
 From the business side, we had around 8 potential big clients. The culture wasn't bad. We were in good shape.
 
+&nbsp;
 
 ### Micromanaging, trust-issues and undermining.
 
@@ -21,6 +22,7 @@ He once spent more than 2 hours with one of the teams forcing him to explain how
 indexing works and why choose elastic over mongo. 
 
 
+&nbsp;
 
 He had problems trusting other's decisions. 
 From stack choice to features implementation, to even DevOps. 
@@ -29,6 +31,7 @@ Simply, he couldn't trust the people's he hired.
 I remember a huge argument between me and him about why we needed more disk space on the dev servers.
 
 
+&nbsp;
 
 Every successful person tends to like working with better people than himself.
 That's how you learn and grow. Everyone I worked with at this company had an undermining
@@ -36,5 +39,6 @@ problem at the company. Every argument with the CEO ended with him mentioning hi
 experience and how 3 or 4 years of experience doesn't make you qualified to take ANY decision.
 
 
+&nbsp;
 
 4 months ago, the CEO shat down the company. It wass pretty depressing because the company was very close to achieve success. But if you can't believe in the people you hired, Why should anyone believe in your company?
