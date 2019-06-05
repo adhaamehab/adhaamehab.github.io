@@ -1,5 +1,3 @@
-# The Lone Loser
-
 If you can't trust somebody, don't hire him!
 
 ![Broken](https://images.unsplash.com/photo-1441804238730-210ce1c2cc00)
