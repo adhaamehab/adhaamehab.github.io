@@ -6,7 +6,7 @@ permalink: /about/
 
 #### *TL;DR*
 
-Data Scientist, Software Engineer, Python, Open-source, NLP, Vision, System desgin & architecture
+Data Scientist, Software Engineer, Python, Rust, Open-source, NLP, Vision, System engineering.
 
 ## Work 
 
