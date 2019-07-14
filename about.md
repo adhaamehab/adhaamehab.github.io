@@ -16,13 +16,23 @@ Data Scientist, Software Engineer, Python, Rust, Open-source, NLP, Vision, Syste
 
 - Writing about Natural language process, Machine learning and computer vision.
 
- ***Full Stack Data Scientist***
 
-July 2018 -  NOW
+***Senior Software Engineer***
+
+Feb 2019 - Now
 
 [ArqamFC](https://arqamfc.com)(now [Statsbomb.com](http://statsbomb.com)) : ArqamFC is an analytics firm focused on collecting and analysing football data.
 
-I do a bit of every thing. From data infrastructure and APIs to ML and Computer vision 
+
+
+
+ ***Data Scientist***
+
+July 2018 -  Feb 2019
+
+[ArqamFC](https://arqamfc.com)(now [Statsbomb.com](http://statsbomb.com)) : ArqamFC is an analytics firm focused on collecting and analysing football data.
+
+Worked as a full stack data scientist for cairo team which is responsible for all the data infrastructure including syncing, validation, steaming, etc. Also responsible for computer vision projects in detecting and tracking players.
 
 --
 
@@ -98,3 +108,11 @@ Jun 2015 - Aug 2015
 [Usian](https://github.com/adhaamehab/usian) *[Author]* A fast lightweight multithreaded task scheduler and background jobs framework.
 
 ----
+
+#### Talks and publishions
+
+- [Deep learning for arabic part of speech tagging](https://towardsdatascience.com/deep-learning-for-arabic-part-of-speech-tagging-810be7278353) published @ Towards data science
+
+- [Talk](https://www.facebook.com/events/2548474865163425/permalink/2569916809685897/) 'Deep learning and computer vision | A full stack approach' At Ain shams university computer vision competition
+
+- Gave introduction courses for about 100 ain shams students in backend engineering and machine learning
