@@ -113,6 +113,6 @@ Jun 2015 - Aug 2015
 
 - [Deep learning for arabic part of speech tagging](https://towardsdatascience.com/deep-learning-for-arabic-part-of-speech-tagging-810be7278353) published @ Towards data science
 
-- [Talk](https://www.facebook.com/events/2548474865163425/permalink/2569916809685897/) 'Deep learning and computer vision | A full stack approach' At Ain shams university computer vision competition
+- [Talk](https://www.facebook.com/events/2548474865163425/permalink/2569916809685897/) 'Deep learning and computer vision: A full stack approach' At Ain shams university computer vision competition
 
 - Gave introduction courses for about 100 ain shams students in backend engineering and machine learning
