@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 #### *TL;DR*
 
-Data Scientist, Software Engineer, Python, Rust, Open-source, NLP, Vision, System engineering.
+Software Engineer, Python, Go, Open-source, Distributed Systems and Machine learning (NLP & CV).
 
 ## Work 
 
