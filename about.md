@@ -23,7 +23,11 @@ Feb 2019 - Now
 
 [ArqamFC](https://arqamfc.com)(now [Statsbomb.com](http://statsbomb.com)) : ArqamFC is an analytics firm focused on collecting and analysing football data.
 
+- Leading 2 Engineers (Data-Infrastructure and backend team) in addition to backend interns.
 
+- Co-Designed and Implemented new scalable architecture.
+
+- Maintaining and implementing all  backend services.
 
 
  ***Data Scientist***
@@ -115,4 +119,6 @@ Jun 2015 - Aug 2015
 
 - [Talk](https://www.facebook.com/events/2548474865163425/permalink/2569916809685897/) 'Deep learning and computer vision: A full stack approach' At Ain shams university computer vision competition
 
-- Gave introduction courses for about 100 ain shams students in backend engineering and machine learning
+- Gave introduction courses for about 100 ain shams students in backend engineering and machine learning.
+
+- Ranked 4 teams at  Ain shams university computer vision competition. Two team made it to the final awards with __1st__ and __3rd__ ranks.
