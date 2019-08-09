@@ -6,7 +6,7 @@ permalink: /about
 
 #### *TL;DR*
 
-Software Engineer, Python, Go, Open-source, Distributed Systems and Machine learning (NLP & CV).
+Senior Software Engineer, Python, Go, Open-source, Distributed Systems and Machine learning (NLP & CV).
 
 ## Work 
 
@@ -55,7 +55,7 @@ Sep 2017 - Aug 2018
 
 ***Software Engineer***
 
-Oct 2016- Nov 2017 
+Nov 2015- Jul 2017 
 
 [ABMegypt](abmegypt.net) ABMegypt is an e-commerce firm focused on digital marketing.
 
@@ -65,16 +65,7 @@ Oct 2016- Nov 2017
 - Wrote automated tests for quality control and Celery tasks for automated crawling.
 - Implemented Text labeling and summarization for unstructred docs. 
 
-***Software Engineer***
-
-May 2016 - Oct 2016
-
-[Tajjer](https://tajjer.com) Tajjer is an e-commerce custome platform.
-
-- Contributed to the Platform whole stack.
-- Structured data collection and storage in MySQL and created Transit dashboards 
-
-***Software Engineering Intern***
+***Software Egineer - Intern***
 
 Jun 2015 - Aug 2015
 
@@ -83,6 +74,14 @@ Jun 2015 - Aug 2015
 - Worked on Integratign Facebook Marketing API into the company platform.
 - Implemented on text summarization package
 
+***Software Engineer***
+
+Mar 2016 - June 2016
+
+[Tajjer](https://tajjer.com) Tajjer is an e-commerce custome platform.
+
+- Contributed to the Platform whole stack.
+- Structured data collection and storage in MySQL and created Transit dashboards 
 
 ---
 
@@ -122,3 +121,4 @@ Jun 2015 - Aug 2015
 - Gave introduction courses for about 100 ain shams students in backend engineering and machine learning.
 
 - Ranked 4 teams at  Ain shams university computer vision competition. Two team made it to the final awards with __1st__ and __3rd__ ranks.
+
