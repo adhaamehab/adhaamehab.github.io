@@ -23,20 +23,11 @@ Feb 2019 - Now
 
 [ArqamFC](https://arqamfc.com)(now [Statsbomb.com](http://statsbomb.com)) : ArqamFC is an analytics firm focused on collecting and analysing football data.
 
-- Leading 2 Engineers (Data-Infrastructure and backend team) in addition to backend interns.
-
-- Co-Designed and Implemented new scalable architecture.
-
-- Maintaining and implementing all  backend services.
-
-
  ***Data Scientist***
 
 July 2018 -  Feb 2019
 
 [ArqamFC](https://arqamfc.com)(now [Statsbomb.com](http://statsbomb.com)) : ArqamFC is an analytics firm focused on collecting and analysing football data.
-
-Worked as a full stack data scientist for cairo team which is responsible for all the data infrastructure including syncing, validation, steaming, etc. Also responsible for computer vision projects in detecting and tracking players.
 
 --
 
@@ -46,24 +37,11 @@ Sep 2017 - Aug 2018
 
 [Floralytics](https://floralytics.com) : Floralytics is focused on building one access point for online content.
 
-- Implemented Miner an enhanced version built on top of scrapy that automate the process of crawling unstructured data and track site changes in Realtime.
-- Implemented FloraText; A Natural Language Processing API which supports multiple language and analyizes and detects topics, emotions and semnatic relations in text.
-- Implemented a minimal tool for deploying Natural language processing models into production.
-- Built a prototype for brand and logo detection from images and videos and image captioning.
-- Deployed all machine learning services using Microsoft Azure and Gitlab CI.
-
-
 ***Software Engineer***
 
 Nov 2015- Jul 2017 
 
 [ABMegypt](abmegypt.net) ABMegypt is an e-commerce firm focused on digital marketing.
-
-- Revamped a crawler from php-crawler to scrapy.
-- Implemented connections to Facebook and Twitter Advertising APIs, kept up with breaking changes.
-- Implemented a sentiment and emotion analytics dashboard for facebook-pages.
-- Wrote automated tests for quality control and Celery tasks for automated crawling.
-- Implemented Text labeling and summarization for unstructred docs. 
 
 ***Software Egineer - Intern***
 
@@ -71,44 +49,38 @@ Jun 2015 - Aug 2015
 
 [ABMegypt](abmegypt.net) ABMegypt is an e-commerce firm focused on digital marketing.
 
-- Worked on Integratign Facebook Marketing API into the company platform.
-- Implemented on text summarization package
-
 ***Software Engineer***
 
 Mar 2016 - June 2016
 
 [Tajjer](https://tajjer.com) Tajjer is an e-commerce custome platform.
 
-- Contributed to the Platform whole stack.
-- Structured data collection and storage in MySQL and created Transit dashboards 
-
 ---
 
 #### *Education*
 
-2014-2019 Faculty of computer and information science Ain shams university. Scientific computing department.
-
-
+BSc major in scientific and high perfromance computing. Ain Shams University.
 -----
 
 #### *Open source projects and contributions*
 
+[Facebook OS Query](https://osquery.io) *Contributor*
+
 [Textblob arabic](https://github.com/adhaamehab/textblob-ar)  *[Author and Maintainer]* Arabic extension for Textblob *You can read about the project* [*Here*](https://adhaamehab.github.io/Textblob-arabic-tutorial-I/)
 
-[ArabicNLP](https://github.com/adhaamehab/arabicnlp) * [Author and Maintainer]* Arabic NLP package.
+[ArabicNLP](https://github.com/adhaamehab/arabicnlp) * [Author and Maintainer]*
 
-[TextRank](https://github.com/summanlp/textrank) *[Contributor]* Text summarisation with python.
+[TextRank](https://github.com/summanlp/textrank) *[Contributor]*
 
-[SocPlot](https://github.com/Arqamfc/socplot)	*[Author]* A python visualization package for visualizing football pitch.
+[SocPlot](https://github.com/Arqamfc/socplot)	*[Author]* 
 
-[Data Retreiver](https://github.com/weecology/retriever)*[Contributor]* Automatic data cleaner for python
+[Data Retreiver](https://github.com/weecology/retriever)*[Contributor]*
 
-[Car Recognition](https://github.com/adhaamehab/car-model-prediction) *[Author]* Predicting car brand, model, year. Check kaggle submission [*Here*](https://www.kaggle.com/c/fcis-deep-learning-competition)
+[Car Recognition](https://github.com/adhaamehab/car-model-prediction) *[Author]* 
 
-[Scene parsing](https://github.com/adbaamehab/semantic-segmentation) *[Author]* End to end semantic segmantation app.
+[Scene parsing](https://github.com/adbaamehab/semantic-segmentation) *[Author]*
 
-[Usian](https://github.com/adhaamehab/usian) *[Author]* A fast lightweight multithreaded task scheduler and background jobs framework.
+[Usian](https://github.com/adhaamehab/usian) *[Author]* 
 
 ----
 
