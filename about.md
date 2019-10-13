@@ -37,6 +37,9 @@ Sep 2017 - Aug 2018
 
 [Floralytics](https://floralytics.com) : Floralytics is focused on building one access point for online content.
 
+--
+
+
 ***Software Engineer***
 
 Nov 2015- Jul 2017 
@@ -49,6 +52,8 @@ Jun 2015 - Aug 2015
 
 [ABMegypt](abmegypt.net) ABMegypt is an e-commerce firm focused on digital marketing.
 
+--
+
 ***Software Engineer***
 
 Mar 2016 - June 2016
@@ -60,7 +65,8 @@ Mar 2016 - June 2016
 #### *Education*
 
 BSc major in scientific and high perfromance computing. Ain Shams University.
------
+
+--
 
 #### *Open source projects and contributions*
 
@@ -82,7 +88,7 @@ BSc major in scientific and high perfromance computing. Ain Shams University.
 
 [Usian](https://github.com/adhaamehab/usian) *[Author]* 
 
-----
+--
 
 #### Talks and publishions
 
