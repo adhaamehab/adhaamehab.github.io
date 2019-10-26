@@ -1,10 +1,8 @@
 title: Home
-author: adhaamehab
-email: adhaamehab7@gmail.com
-description: > # this means to ignore newlines until "twitter_username:"
- 
- Software Engineer, Python, Go, Open-source, Distributed Systems and Machine learning (NLP & CV).
- 
+author: Adham Ehab
+email: adhaamehab.me@gmail.com
+description: 
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
