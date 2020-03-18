@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 Hi,
-I'm currently a Senior Software Engineer [Arqam](arqamfc.com/#team)@[Statsbomb](statsbomb.com)
+I'm currently a Senior Software Engineer [Arqam](arqamfc.com/#team)/[Statsbomb](statsbomb.com)
 
 I'm mainly focused on Data, Stream Processing, Distributed Systems and Machine learning (NLP & CV).
 
