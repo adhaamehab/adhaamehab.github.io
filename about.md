@@ -5,14 +5,14 @@ permalink: /about
 ---
 
 Hi,
-I'm currentlu a Senior Software Engineer [Arqam](arqamfc.com/#team)@[Statsbomb](statsbomb.com)
+I'm currently a Senior Software Engineer [Arqam](arqamfc.com/#team)@[Statsbomb](statsbomb.com)
 
 I'm mainly focused on Data, Stream Processing, Distributed Systems and Machine learning (NLP & CV).
 
 I learn from open source and I try to payback by doing small contributions.
 
-I blog whenever I have time and loves to help people!
+I blog & read about tech stauff and get excited to discuss them with others. 
 
-Also previously I worked for Floralytics, ABM Egypt, Tajjer in different roles. 
+Previously I worked for Floralytics, ABM Egypt, Tajjer in different roles between Full Stack developer and Data Scientist. 
 
-I have a BSc in scientific computing and high performance computing from Ainshams university - Faculty of computer sciences.
+I have a BSc in computer scince specialized in scientific & high performance computing from Ainshams university.
