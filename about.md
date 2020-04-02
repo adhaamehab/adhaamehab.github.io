@@ -5,9 +5,9 @@ permalink: /about
 ---
 
 Hi,
-I'm currently a Senior Software Engineer [Arqam](arqamfc.com/#team)/[Statsbomb](statsbomb.com)
+I'm a Senior Software Engineer living in Cairo and work at [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)/)
 
-I'm mainly focused on Data, Stream Processing, Distributed Systems and Machine learning (NLP & CV).
+I'm mainly focused on  Distributed Systems, Data and Stream Processing.
 
 I learn from open source and I try to payback by doing small contributions.
 
