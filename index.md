@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adham | About Me
+title: About Me
 order: 1
 ---
 
