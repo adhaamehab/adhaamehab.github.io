@@ -1,4 +1,8 @@
-# My Reading List
+---
+layout: page
+title: My reading list
+permalink: /books/
+---
 
 ![](https://github.com/adhaamehab/my-reading-list/blob/master/my-reading-list.jpg)
 > Photo by me. May 26th 2019. Downtown, Cairo 
