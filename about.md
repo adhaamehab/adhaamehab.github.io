@@ -4,15 +4,12 @@ title: About
 permalink: /about
 ---
 
-Hi,
-I'm a Senior Software Engineer living in Cairo and work at [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)/)
+Hi there,
 
-I'm mainly focused on  Distributed Systems, Data and Stream Processing.
+I'm Adham,  A Senior Software Engineer living in Cairo. Mainly focused on Distributed Systems, Containers, Infrastructre, Data and Stream Processing.
 
-I learn from open source and I try to payback by doing small contributions.
+I worked for [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)) Floralytics, ABM Egypt, Tajjer in different roles and teams.
 
-I blog & read about tech stauff and get excited to discuss them with others. 
+Occasionally, I blog and keep track of [my reading list](https://github.com/adhaamehab/my-reading-list). 
 
-Previously I worked for Floralytics, ABM Egypt, Tajjer in different roles between Full Stack developer and Data Scientist. 
-
-I have a BSc in computer scince specialized in scientific & high performance computing from Ainshams university.
+I have a BSc in Computer Science from Ainshams University. And starting from July 2020, I'll be pursing a _Pre-Masters Degree Computer Science_ from Cairo University
