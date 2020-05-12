@@ -4,7 +4,7 @@ title: My reading list
 permalink: /books/
 ---
 
-![](https://unsplash.com/photos/1tSxo4EBQ70)
+![](https://images.unsplash.com/photo-1589289285460-9150090ccfd1)
 > Photo by me. May 26th 2019. Downtown, Cairo 
 
 ## Computer science, Software Engineering & Programming languages
