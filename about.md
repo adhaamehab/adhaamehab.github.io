@@ -6,9 +6,9 @@ permalink: /about
 
 Hi there,
 
-I'm Adham,  A Senior Software Engineer living in Cairo. Mainly focused on Distributed Systems, Containers, Infrastructre, Data and Stream Processing.
+I'm Adham,  A Senior Software Engineer living in Cairo. Focused on Distributed Systems, Containers, Infrastructre, Data and Stream Processing.
 
-I worked for [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)) Floralytics, ABM Egypt, Tajjer in different roles and teams.
+I worked for [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)) Floralytics, ABM Egypt, Tajjer in different roles and teams since I was 19.
 
 Occasionally, I blog and keep track of [my reading list](https://github.com/adhaamehab/my-reading-list). 
 
