@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Adham | About Me
+order: 1
 ---
 
 Hi there,
