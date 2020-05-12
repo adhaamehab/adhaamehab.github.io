@@ -4,7 +4,7 @@ title: My reading list
 permalink: /books/
 ---
 
-![](https://github.com/adhaamehab/my-reading-list/blob/master/my-reading-list.jpg)
+![](https://unsplash.com/photos/1tSxo4EBQ70)
 > Photo by me. May 26th 2019. Downtown, Cairo 
 
 ## Computer science, Software Engineering & Programming languages
