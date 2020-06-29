@@ -39,6 +39,8 @@ permalink: /books/
 
 📌 Cloud Native Go
 
+
+
 ## Distributed Systems & Infrastructure 
 
 🏁📚💯 Designing data intensive applications (⭐ ⭐ ⭐ ⭐ ⭐)
@@ -79,7 +81,7 @@ permalink: /books/
 
 📌 Fundamental of Software Architecture
 
-📌 Site Reliabaility Engieering
+📌 📚Site Reliabaility Engieering
 
 ## Professionalism
 
