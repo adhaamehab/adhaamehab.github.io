@@ -12,6 +12,6 @@ I worked for [Statsbomb](statsbomb.com)([Arqam](arqamfc.com/#team)) Floralytics,
 
 Occasionally, I blog and keep track of [my reading list](https://github.com/adhaamehab/my-reading-list). 
 
-I have a BSc in Computer Science from Ainshams University. And starting from July 2020, I'll be pursing a _Pre-Masters Degree Computer Science_ from Cairo University
+I have a BSc in Computer Science from Ainshams University. And starting from July 2020, I'll be pursing a _Masters Degree Computer Science_ from Cairo University
 
 p.s. Here's my [resume](./Adham_Ehab_Resume.docx.pdf)
