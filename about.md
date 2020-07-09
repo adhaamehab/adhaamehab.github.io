@@ -14,4 +14,4 @@ Occasionally, I blog and keep track of [my reading list](https://github.com/adha
 
 I'm also a M.Sc. student Majored in Distributed Systems, Cloud Computing and Information Science at Ainshams University where I also got my BSc in Computer Science.
 
-p.s. Here's my [resume](./Adham_Ehab_Resume.docx.pdf)
+p.s. Here's my [resume](./resume.pdf)
