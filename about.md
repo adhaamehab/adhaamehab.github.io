@@ -15,4 +15,4 @@ I did some minor contributions to intersting open source projects. And I've star
 
 I'm also a M.Sc. student Majored in Distributed Systems, Cloud Computing and Information Science at Ainshams University from where I got my BSc in Computer Science.
 
-Here's my [resume](./resume.pdf)
+Here's my [resume](https://adhaamehab.dev/resume.pdf)
