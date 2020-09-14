@@ -7,7 +7,9 @@ permalink: /about/
 
 I'm a Software Engineer in Cairo 🇪🇬. I like Distributed Systems ☸️, Cloud ☁️ and Data Processing.
 
-Previoulsy, I worked for [Statsbomb](statsbomb.com), Floralytics and other companies.
+I currently work for [Statsbomb](statsbomb.com) as an Infrastructure Engineer.
+
+Previoulsy, I worked for [Statsbomb](statsbomb.com) _in different role_, Floralytics and other companies.
 
 Sometimes, I blog. And I always keep [my reading list](https://github.com/adhaamehab/my-reading-list) Up-to-date. 
 
