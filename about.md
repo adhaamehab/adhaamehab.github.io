@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 
-I'm a Software Engineer in Cairo 🇪🇬. I like Distributed Systems ☸️, Cloud ☁️ and Data Processing.
+I'm a Software Engineer in Cairo 🇪🇬. I like Distributed Systems ☸️, Cloud Infrastructure ☁️ and Data Processing.
 
-I currently work for [Statsbomb](statsbomb.com) as an Infrastructure Engineer.
+I currently work as a Site Reliability Engineer @ [Statsbomb](statsbomb.com)
 
 Previoulsy, I worked for [Statsbomb](statsbomb.com) _in different role_, Floralytics and other companies.
 
