@@ -3,6 +3,10 @@ layout: page
 title: Books
 permalink: /books/
 ---
+# My Reading List
+
+![](https://github.com/adhaamehab/my-reading-list/blob/master/my-reading-list.jpg)
+> Photo by me. May 26th 2019. Downtown, Cairo 
 
 ## Computer science, Software Engineering & Programming languages
 
@@ -36,8 +40,6 @@ permalink: /books/
 
 📌 Cloud Native Go
 
-
-
 ## Distributed Systems & Infrastructure 
 
 🏁📚💯 Designing data intensive applications (⭐ ⭐ ⭐ ⭐ ⭐)
@@ -48,13 +50,13 @@ permalink: /books/
 
 🏁 Understanding message brokers (⭐ ⭐ ⭐ ⭐ ⚪)
 
-📌📚 Streaming systems
+📌📚 Streaming systems (__halfway there, information overload__)
 
 📌📚 Designing event driven systems
 
-🏁📚💯 Designing distributed systems (⭐ ⭐ ⭐ ⭐ ⚪) 
+🏁📚💯 Designing distributed systems (⭐ ⭐ ⭐ ⭐ ⭐) 
 
-📌📚 Building microservices
+🏁 📚 Building microservices (⭐ ⭐ ⭐ ⭐ ⚪)
 
 📌📚 Microservice Architecture
 
@@ -64,7 +66,7 @@ permalink: /books/
 
 📌 Cloud Native Programming with Golang
 
-📌 The Microservices Reference Architecture - NginX
+🏁 📚 The Microservices Reference Architecture - NginX (⭐ ⭐ ⭐ ⭐️ ⚪)
 
 📌 Production Ready Microservices
 
@@ -78,7 +80,9 @@ permalink: /books/
 
 📌 Fundamental of Software Architecture
 
-📌 📚Site Reliabaility Engieering
+📌 Architectural patterns in Python
+
+🏁 📚 Site Reliabaility Engieering (⭐ ⭐ ⭐ ⚪ ⚪)
 
 ## Professionalism
 
