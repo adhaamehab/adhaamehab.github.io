@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm a Software Engineer in Cairo 🇪🇬. I like Distributed Systems ☸️, Cloud Infrastructure ☁️ and Data Processing.
 
-I currently work as a Site Reliability Engineer @ [Statsbomb](statsbomb.com)
+I currently work as a Remote Site Reliability Engineer @ [Statsbomb](statsbomb.com) __(A Leading Football data startup in UK 🇬🇧)
 
 Previoulsy, I worked for [Statsbomb](statsbomb.com) _in different role_, Floralytics and other companies.
 
